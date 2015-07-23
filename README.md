@@ -1,2 +1,2 @@
-# FunctionalProgrammingPrinciplesInScala
-Functional Programming Principles in Scala (Coursera)
+# Functional Programming Principles In Scala (Coursera)
+
