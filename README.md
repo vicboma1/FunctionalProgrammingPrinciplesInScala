@@ -1,9 +1,9 @@
 # Functional Programming Principles In Scala (Coursera)
 [![Analytics](https://ga-beacon.appspot.com/UA-68658653-1/functionalprogrammingprinciplesinscala/readme)](https://github.com/igrigorik/ga-beacon)
 
-##Course classes and assignments
+## Course classes and assignments
 
-####Forcomp
+#### Forcomp
 ```scala
 package forcomp
 
@@ -13,7 +13,7 @@ object Anagrams { ... }
   
 ```
 
-####FunSet
+#### FunSet
 ```scala
 package funSet
 
@@ -24,7 +24,7 @@ object FunSets { ... }
   
 ```
 
-####Huffman
+#### Huffman
 ```scala
 package forcomp
 
@@ -34,7 +34,7 @@ object Huffman { ... }
   
 ```
 
-####ObjSets
+#### ObjSets
 ```scala
 package tweetsets
 
@@ -53,7 +53,7 @@ abstract class TweetSet { ... }
   
 ```
 
-####Recursion
+#### Recursion
 ```scala
 package recursion
 
@@ -63,7 +63,7 @@ object Main { ... }
   
 ```
 
-####Streams
+#### Streams
 ```scala
 package streams
 
